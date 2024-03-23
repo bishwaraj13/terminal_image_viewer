@@ -1,6 +1,11 @@
 # Terminal Image Viewer
 
-A terminal-based image viewer that displays images and thumbnails using colored Unicode characters.
+A terminal-based image viewer that displays images and thumbnails in terminal using colored Unicode characters.
+
+![alt text](https://github.com/bishwaraj13/terminal_image_viewer/blob/main/results/sample_result.png?raw=true)
+
+## Motivation
+I work in remote servers for development purpose. And I work with just terminal. So, its hard to visualise images. The only way to visualise images is to download them locally. The project is an attempt to help with that.
 
 ## Steps to setup the project
 1. Clone the repository
